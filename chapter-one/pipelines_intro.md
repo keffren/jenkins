@@ -23,7 +23,7 @@ When the code passes all tests, it is ready to be deployed to production.
 
 Jenkins provides three different project types that can define your continuous project:
 
-- [Freestyle Projects](freestyle.md)
+- [Freestyle Projects](freestyle_project.md)
 - [Pipeline Projects](pipeline_project.md)
     - Declarative Pipeline
     - Scripted Pipeline
