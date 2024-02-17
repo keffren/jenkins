@@ -1,11 +1,10 @@
-
 # Pipeline Projects
 
 [Jenkins Pipeline](https://www.jenkins.io/doc/book/pipeline/) is a tool for defining your Continuous Delivery/Deployment flow as code. Two syntaxes are supported:
 
-- Scripted
+- **Scripted**
     - sequential execution, using Groovy expressions for flow control
-- Declarative
+- **Declarative**
     - uses a framework to control execution
 
 Some of the advantages of Pipeline over freestyle are:
@@ -56,7 +55,7 @@ node {
 
 ### Declarative Pipeline
 
-The declarative pipeline syntax provides a defined set of capabilites that lets you define a pipeline **without learning Groovy**.
+The declarative pipeline syntax provides a defined set of capabilities that lets you define a pipeline **without learning Groovy**.
 
 Using Blue Ocean simplifies the Pipeline creation process even more.
 

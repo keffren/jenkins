@@ -27,3 +27,10 @@ Jenkins provides three different project types that can define your continuous p
 - [Pipeline Projects](pipeline_project.md)
     - Declarative Pipeline
     - Scripted Pipeline
+- Multibranch Pipeline
+
+| Freestyle | Pipeline | Multibranch Pipeline |
+| --------- | -------- | -------------------- |
+| Simple | **Whole delivery cycle** | Same as Pipeline |
+| **Single tasks** | Single branch | **Multiple branches** |
+| e.g. run tests | e.g. test->build -> ... | e.g. CI/CD for main, sandbox ... |

@@ -20,18 +20,18 @@ The waterfall methodology is a sequential and linear approach to software develo
 
 ![](../resources/waterfall_method.png)
 
-1. Requirements: Define and document project requirements.
-1. Design: Plan the software architecture and components.
-1. Implementation: Code based on the design specifications.
-1. Testing: Verify the software for defects and adherence to requirements.
-1. Deployment: Release the software to production or users.
-1. Maintenance: Provide ongoing support, updates, and bug fixes.
+1. **Requirements**: Define and document project requirements.
+1. **Design**: Plan the software architecture and components.
+1. **Implementation**: Code based on the design specifications.
+1. **Testing**: Verify the software for defects and adherence to requirements.
+1. **Deployment**: Release the software to production or users.
+1. **Maintenance**: Provide ongoing support, updates, and bug fixes.
 
 Each phase requires a deliverable from the previous phase to proceed.
 
 ### Modern development methodologies
 
-The modern development methodologies emphasize collaboration between different teams, flexibility in planning and development, and shorter development cycles. Three most common is:
+The modern development methodologies emphasize collaboration between different teams, flexibility in planning and development, and shorter development cycles. The most common is:
 
 - **Agile** - emphasizes adaptive planning and evolutionary development. Work is planned and completed in "sprints" (usually 1-2 weeks of work), with frequent (usually daily) "scrums" where all team members report progress and plan their next steps. See the Agile Manifesto.
 
