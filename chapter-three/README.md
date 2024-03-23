@@ -1,3 +1,5 @@
 # JENKINSFILE
 
-I highly recommend read [the official documentation](https://www.jenkins.io/doc/book/pipeline/jenkinsfile/) about JenkinsFile, that it is well explained.
+I highly recommend reading [the official documentation](https://www.jenkins.io/doc/book/pipeline/jenkinsfile/) about JenkinsFile, as it is well explained.
+
+[***Next***](../chapter-four/README.md)

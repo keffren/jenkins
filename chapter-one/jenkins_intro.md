@@ -118,3 +118,5 @@ Here are a few articles to get you started:
 
 - The stackoverflow [What are unit tests, integration tests, smoke tests, and regression tests?](https://stackoverflow.com/questions/520064/what-is-unit-test-integration-test-smoke-test-regression-test) discussion introduces the types of testing you can perform.
 - Martin Fowler writes extensively about software development, and proper testing figures prominently in his writing.  You may enjoy his articles about [Unit testing](https://martinfowler.com/bliki/UnitTest.html), [Test Coverage](https://martinfowler.com/bliki/TestCoverage.html), and [Test Driven Development](https://martinfowler.com/bliki/TestDrivenDevelopment.html).
+
+[***Next***](../chapter-one/pipelines_intro.md)

@@ -4,8 +4,10 @@ I created this repository as my notes on my learning in Jenkins. To do this, I h
 
 ## Index
 
-- **chapter-0:** [Introduction to Jenkins concepts](chapter-zero/jenkins_intro.md)
-- **chapter-1:** [About Pipelines](chapter-one/pipelines_intro.md)
+- **chapter-0:** [Best CI/CD Practices](chapter-zero/best_practices.md)
+- **chapter-1:**
+    - [Introduction to Jenkins concepts](chapter-one/jenkins_intro.md)
+    - [About Pipelines](chapter-one/pipelines_intro.md)
 - **chapter-2:** [Pipeline Configuration](chapter-two/README.md)
 - **chapter-3:** [JenkinsFile](chapter-three/README.md)
 - **chapter-4:** [Pipeline Operations](chapter-four/README.md)
