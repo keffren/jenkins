@@ -19,12 +19,14 @@ When the code passes all tests, it is ready to be deployed to production.
 - **Node:** is sometimes used to refer to the computer, VM or container used for the controller or agent. Be careful because "Node" has another meaning for Scripted Pipeline.
 - **Executor:** is a computational resource for running builds. It performs operations and can run on any controller or agent, although running builds on controllers is not recommended.
 
-## Project types
+## Job types
 
-Jenkins provides three different project types that can define your continuous project:
+Jenkins uses Jobs (also known as "projects") to perform its work. Jobs are defined and run by Jenkins users. Jenkins offers several different types of jobs, including:
 
-- [Freestyle Projects](freestyle_project.md)
-- [Pipeline Projects](pipeline_project.md)
+Jenkins provides three different job types that can define your continuous project:
+
+- [Freestyle Jobs](freestyle_project.md)
+- [Pipeline Jobs](pipeline_project.md)
     - Declarative Pipeline
     - Scripted Pipeline
 - Multibranch Pipeline
@@ -35,4 +37,6 @@ Jenkins provides three different project types that can define your continuous p
 | **Single tasks** | Single branch | **Multiple branches** |
 | e.g. run tests | e.g. test->build -> ... | e.g. CI/CD for main, sandbox ... |
 
-[***Next***](../chapter-two/README.md)
+> The term 'project' is no longer used; it is now referred to as 'job'. Therefore, 'project' is a deprecated term.
+
+[***Next***](./jenkins_arch.md)
