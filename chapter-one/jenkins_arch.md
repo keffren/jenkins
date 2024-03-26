@@ -13,9 +13,9 @@ A Jenkins job is a user-configured description of work which Jenkins should perf
 
 Jobs can contain pipelines but they can also contain other workflows. For Jenkins, **the terms of "job" and "project" are the same**. Even the project term is already deprecated.
 
-**Don't misunderstand "Job" with "Pipeline"**, they're quite different:
-
-- **Pipelines** are Jenkins jobs enabled by the Pipeline (formerly called “workflow”) plugin and built with simple text scripts that use a Pipeline DSL (domain-specific language) based on the Groovy programming language.
+> [!WARNING]
+> **Don't misunderstand "Job" with "Pipeline"**, they're quite different.<br />
+**Pipelines** are Jenkins jobs enabled by the Pipeline (formerly called “workflow”) plugin and built with simple text scripts that use a Pipeline DSL (domain-specific language) based on the Groovy programming language.<br />
 `Jenkins Pipeline = Pipeline = Pipeline Job type`: is a suite of plugins which supports implementing and integrating continuous delivery pipelines into Jenkins.
 
 ### Users
