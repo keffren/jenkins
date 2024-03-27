@@ -1,6 +1,6 @@
 # JENKINS ARCHITECTURE
 
-![image from https://devopscube.com/](../resources/jenkins_architecture.png)
+![image from https://devopscube.com/](../../resources/jenkins_architecture.png)
 
 ## JENKINS MASTER
 
@@ -65,7 +65,7 @@ We can configure multiples agents as:
 
 Under Jenkins Global configuration, you have all the configurations of installed plugins and native Jenkins global configurations.
 
-![](../resources/system_config.png)
+![](../../resources/system_config.png)
 
 ## Jenkins Agent
 

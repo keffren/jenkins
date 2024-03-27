@@ -12,13 +12,13 @@ Continuous workflow concept means to **have the code in a valid and stable state
 
 Here's a Workflow example:
 
-![](../resources/workflow_example.jpg)
+![](../../resources/workflow_example.jpg)
 
 ### Traditional development: Waterfall methodology
 
 The waterfall methodology is a sequential and linear approach to software development with distinct phases:
 
-![](../resources/waterfall_method.png)
+![](../../resources/waterfall_method.png)
 
 1. **Requirements**: Define and document project requirements.
 1. **Design**: Plan the software architecture and components.
@@ -39,7 +39,7 @@ The modern development methodologies emphasize collaboration between different t
 
 Implements Agile method and DevOps mindset  with tools that standardize the steps in the process and thoroughly test each code modification before it is integrated into the official source.
 
-![](../resources/continuos_method.png)
+![](../../resources/continuos_method.png)
 
 In summary:
 
@@ -55,7 +55,7 @@ In a real-world, the Continuous philosophy is implemented by the following conce
 
 To successfully implement continuous delivery, it is essential to have a collaborative working relationship with everyone involved. You can then use Delivery **Pipelines**, which are automated implementations of your product’s lifecycle.
 
-![](../resources/pipeline_workflow.png)
+![](../../resources/pipeline_workflow.png)
 
 ## Jenkins Workflow
 
